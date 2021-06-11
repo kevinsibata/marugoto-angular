@@ -1,0 +1,359 @@
+[
+  {
+    "id": 1,
+    "kanji": "場",
+    "furigana": "じょう",
+    "traducao": "Campo",
+    "topico": 1
+  },
+  {
+    "id": 2,
+    "kanji": "試合",
+    "furigana": "しあい",
+    "traducao": "Partida",
+    "topico": 1
+  },
+  {
+    "id": 3,
+    "kanji": "日曜日",
+    "furigana": "にちようび",
+    "traducao": "Domingo",
+    "topico": 1
+  },
+  {
+    "id": 4,
+    "kanji": "強い",
+    "furigana": "つよい",
+    "traducao": "Forte",
+    "topico": 1
+  },
+  {
+    "id": 5,
+    "kanji": "弱い",
+    "furigana": "よわい",
+    "traducao": "Fraco",
+    "topico": 1
+  },
+  {
+    "id": 6,
+    "kanji": "勝つ",
+    "furigana": "かつ",
+    "traducao": "Vencer",
+    "topico": 1
+  },
+  {
+    "id": 7,
+    "kanji": "負ける",
+    "furigana": "まける",
+    "traducao": "Perder",
+    "topico": 1
+  },
+  {
+    "id": 8,
+    "kanji": "対",
+    "furigana": "たい",
+    "traducao": "Contra",
+    "topico": 1
+  },
+  {
+    "id": 9,
+    "kanji": "庭",
+    "furigana": "にわ",
+    "traducao": "Jardim",
+    "topico": 2
+  },
+  {
+    "id": 10,
+    "kanji": "公演",
+    "furigana": "こうえん",
+    "traducao": "Parque",
+    "topico": 2
+  },
+  {
+    "id": 11,
+    "kanji": "病院",
+    "furigana": "びょういん",
+    "traducao": "Hospital",
+    "topico": 2
+  },
+  {
+    "id": 12,
+    "kanji": "交通",
+    "furigana": "こうつう",
+    "traducao": "Trânsito",
+    "topico": 2
+  },
+  {
+    "id": 13,
+    "kanji": "通勤",
+    "furigana": "つうきん",
+    "traducao": "Percurso para o trabalho",
+    "topico": 2
+  },
+  {
+    "id": 14,
+    "kanji": "安全",
+    "furigana": "あんぜん",
+    "traducao": "Seguro",
+    "topico": 2
+  },
+  {
+    "id": 15,
+    "kanji": "危ない",
+    "furigana": "あぶない",
+    "traducao": "Perigoso",
+    "topico": 2
+  },
+  {
+    "id": 16,
+    "kanji": "遠い",
+    "furigana": "とおい",
+    "traducao": "Longe",
+    "topico": 2
+  },
+  {
+    "id": 17,
+    "kanji": "努める",
+    "furigana": "つとめる",
+    "traducao": "Estar empregado",
+    "topico": 2
+  },
+  {
+    "id": 18,
+    "kanji": "以上",
+    "furigana": "いじょう",
+    "traducao": "Mais de",
+    "topico": 2
+  },
+  {
+    "id": 19,
+    "kanji": "以下",
+    "furigana": "いか",
+    "traducao": "Menos de",
+    "topico": 2
+  },
+  {
+    "id": 20,
+    "kanji": "海外",
+    "furigana": "かいがい",
+    "traducao": "Estrangeiro",
+    "topico": 3
+  },
+  {
+    "id": 21,
+    "kanji": "食生活",
+    "furigana": "しょくせいかつ",
+    "traducao": "Hábito alimentar",
+    "topico": 3
+  },
+  {
+    "id": 22,
+    "kanji": "健康",
+    "furigana": "けんこう",
+    "traducao": "Saúde",
+    "topico": 3
+  },
+  {
+    "id": 23,
+    "kanji": "家庭料理",
+    "furigana": "かていりょうり",
+    "traducao": "Comida caseira",
+    "topico": 3
+  },
+  {
+    "id": 24,
+    "kanji": "材料",
+    "furigana": "ざいりょう",
+    "traducao": "Ingredientes",
+    "topico": 3
+  },
+  {
+    "id": 25,
+    "kanji": "量",
+    "furigana": "りょう",
+    "traducao": "Ingredientes",
+    "topico": 3
+  },
+  {
+    "id": 26,
+    "kanji": "米",
+    "furigana": "こめ",
+    "traducao": "Arroz (cru)",
+    "topico": 3
+  },
+  {
+    "id": 27,
+    "kanji": "朝食",
+    "furigana": "ちょうしょく",
+    "traducao": "Café da manhã",
+    "topico": 3
+  },
+  {
+    "id": 28,
+    "kanji": "昼食",
+    "furigana": "ちゅうしょく",
+    "traducao": "Almoço",
+    "topico": 3
+  },
+  {
+    "id": 29,
+    "kanji": "夕食",
+    "furigana": "ゆうしょく",
+    "traducao": "Jantar",
+    "topico": 3
+  },
+  {
+    "id": 30,
+    "kanji": "外食",
+    "furigana": "がいしょく",
+    "traducao": "Comer fora",
+    "topico": 3
+  },
+  {
+    "id": 31,
+    "kanji": "定食",
+    "furigana": "ていしょく",
+    "traducao": "Prato feito",
+    "topico": 3
+  },
+  {
+    "id": 32,
+    "kanji": "住所",
+    "furigana": "じゅうしょ",
+    "traducao": "Moradia",
+    "topico": 4
+  },
+  {
+    "id": 33,
+    "kanji": "訪問",
+    "furigana": "ほうもん",
+    "traducao": "Visita",
+    "topico": 4
+  },
+  {
+    "id": 34,
+    "kanji": "経験",
+    "furigana": "けいけん",
+    "traducao": "Experiências",
+    "topico": 4
+  },
+  {
+    "id": 35,
+    "kanji": "親切",
+    "furigana": "しんせつ",
+    "traducao": "Gentil",
+    "topico": 4
+  },
+  {
+    "id": 36,
+    "kanji": "座る",
+    "furigana": "すわる",
+    "traducao": "Sentar",
+    "topico": 4
+  },
+  {
+    "id": 37,
+    "kanji": "立つ",
+    "furigana": "たつ",
+    "traducao": "Levantar",
+    "topico": 4
+  },
+  {
+    "id": 38,
+    "kanji": "人生観",
+    "furigana": "じんせいかん",
+    "traducao": "Visão da vida",
+    "topico": 4
+  },
+  {
+    "id": 39,
+    "kanji": "約",
+    "furigana": "やく",
+    "traducao": "Aproximadamente",
+    "topico": 4
+  },
+  {
+    "id": 40,
+    "kanji": "計画",
+    "furigana": "けいかく",
+    "traducao": "Plano",
+    "topico": 5
+  },
+  {
+    "id": 41,
+    "kanji": "自信",
+    "furigana": "じしん",
+    "traducao": "Autoconfiança",
+    "topico": 5
+  },
+  {
+    "id": 42,
+    "kanji": "方法",
+    "furigana": "ほうほう",
+    "traducao": "Método",
+    "topico": 5
+  },
+  {
+    "id": 43,
+    "kanji": "目的",
+    "furigana": "もくてき",
+    "traducao": "Objetivo",
+    "topico": 5
+  },
+  {
+    "id": 44,
+    "kanji": "難しい",
+    "furigana": "むずかしい",
+    "traducao": "Difícil",
+    "topico": 5
+  },
+  {
+    "id": 45,
+    "kanji": "難しい",
+    "furigana": "むずかしい",
+    "traducao": "Difícil",
+    "topico": 5
+  },
+  {
+    "id": 46,
+    "kanji": "通じる",
+    "furigana": "つうじる",
+    "traducao": "Compreender",
+    "topico": 5
+  },
+  {
+    "id": 47,
+    "kanji": "習う",
+    "furigana": "ならう",
+    "traducao": "Aprender",
+    "topico": 5
+  },
+  {
+    "id": 48,
+    "kanji": "学ぶ",
+    "furigana": "まなぶ",
+    "traducao": "Estudar",
+    "topico": 5
+  },
+  {
+    "id": 49,
+    "kanji": "初級",
+    "furigana": "しょきゅう",
+    "traducao": "Nível básico",
+    "topico": 5
+  },
+  {
+    "id": 50,
+    "kanji": "中級",
+    "furigana": "ちゅうきゅう",
+    "traducao": "Nível intermediário",
+    "topico": 5
+  },
+  {
+    "id": 51,
+    "kanji": "上級",
+    "furigana": "じょうきゅう",
+    "traducao": "Nível avançado",
+    "topico": 5
+  }
+]
