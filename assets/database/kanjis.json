@@ -171,7 +171,7 @@
     "id": 25,
     "kanji": "量",
     "furigana": "りょう",
-    "traducao": "Ingredientes",
+    "traducao": "Quantidade",
     "topico": 3
   },
   {
@@ -309,48 +309,41 @@
   },
   {
     "id": 45,
-    "kanji": "難しい",
-    "furigana": "むずかしい",
-    "traducao": "Difícil",
-    "topico": 5
-  },
-  {
-    "id": 46,
     "kanji": "通じる",
     "furigana": "つうじる",
     "traducao": "Compreender",
     "topico": 5
   },
   {
-    "id": 47,
+    "id": 46,
     "kanji": "習う",
     "furigana": "ならう",
     "traducao": "Aprender",
     "topico": 5
   },
   {
-    "id": 48,
+    "id": 47,
     "kanji": "学ぶ",
     "furigana": "まなぶ",
     "traducao": "Estudar",
     "topico": 5
   },
   {
-    "id": 49,
+    "id": 48,
     "kanji": "初級",
     "furigana": "しょきゅう",
     "traducao": "Nível básico",
     "topico": 5
   },
   {
-    "id": 50,
+    "id": 49,
     "kanji": "中級",
     "furigana": "ちゅうきゅう",
     "traducao": "Nível intermediário",
     "topico": 5
   },
   {
-    "id": 51,
+    "id": 50,
     "kanji": "上級",
     "furigana": "じょうきゅう",
     "traducao": "Nível avançado",
